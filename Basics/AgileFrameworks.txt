@@ -1,0 +1,26 @@
+B.3. Different Agile frameworks:
+Kanban
+Scrum
+Lean
+Spotify Model
+Dynamic System Development Method (DSDM)
+Scaled Agile Framework (SAFe)
+Extreme Programming (XP)
+Large-Scale Scrum (LeSS)
+Feature Driven Development (FDD)
+Crystal
+Scrum is the most widely used.
+ SAFe or LeSS is best for large enterprises.
+ Kanban is great for continuous workflows.
+Spotify Model works well for tech companies.
+
+
+
+
+
+
+
+
+
+
+
