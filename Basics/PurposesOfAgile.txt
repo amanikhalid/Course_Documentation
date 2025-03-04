@@ -1,0 +1,7 @@
+B- Agile and Scrum
+B.1. The Agile methodology was created by a group of software developers who wanted a better approach to the traditional development process, which is Waterfall method, which they found to be too complicated and weighed down by documentation requirements.
+Purposes of Agile methodology:
+Deliver working software quickly
+Enhance quality
+Adapt to changes easily
+Increase collaboration
