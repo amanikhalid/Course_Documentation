@@ -1,0 +1,40 @@
+B.4. Scrum framework for Agile:
+Scrum meetings are an essential part of the Scrum framework.
+In fact, according to the Agile Manifesto, development teams need to engage in face-to-face conversations to exchange information and react to changes quickly. And Scrum meetings are the best way to do that with your team members.
+Timing:
+Daily Scrum (Daily Stand-up) (15 min)
+Sprint Review (1-2 hours)
+Sprint Retrospective (1-2 hours)
+Meetings:
+1.     Sprint planning meeting
+·       When: Held at the start of each sprint.
+·       Attendees: The full Scrum team - product owner, Scrum master, and developers.
+·       Duration: They usually last about two hours for every week the sprint lasts. So, a two-week sprint would involve a four-hour planning session before work commences.
+·       Purpose: The team reviews the product backlog, sets the sprint goal, and plans the work for the upcoming sprint.
+2.     Daily Scrum (Stand-up) meeting
+·       When: Daily, typically first thing in the morning.
+·       Attendees: All Scrum team members — the product owner, Scrum master, and developers,
+·       Duration: No longer than 15 minutes.
+·       Purpose: A short daily meeting where team members share progress, identify blockers, and plan their work for the day.
+3.     Sprint review meeting
+·       When: At the end of a sprint.
+·       Attendees: All the Scrum team members, plus key stakeholders invited by the product owner.
+·       Duration: About an hour for every week of a sprint. So, a two-week sprint should be followed by a two-hour review session.
+·       Purpose: The team demonstrates the work completed and gathers feedback from stakeholders.
+4.     Sprint retrospective meeting
+·       When: At the end of a sprint.
+·       Attendees: The whole Scrum team — product owner, Scrum master, and developers.
+·       Duration: Typically, 45 minutes per sprint week. For example, the average length of a Sprint retrospective would be 90 minutes for a two-week sprint.
+·       Purpose: The team reflects on what went well, what didn’t, and identifies areas for improvement.
+5.      Backlog refinement meeting
+·       When: Before the sprint planning meeting.
+·       Attendees: The product owner and some or all of the developers and Scrum master.
+·       Duration: No fixed time.
+·       Purpose: The team discusses and prioritizes items in the product backlog.
+Roles:
+1.     Product Owner (PO)
+Main Responsibility: Defines and prioritizes the Product Backlog to maximize value for the customer.
+2.     Scrum Master (SM)
+Main Responsibility: Acts as a coach & facilitator, ensuring the team follows Scrum practices
+3.     Development Team
+Main Responsibility: Delivers working software at the end of each Sprint.
