@@ -1,0 +1,50 @@
+A.2.
+In order to ensure that software has efficiently passed through all stages of the software development life cycle, different roles contribute to different stages of the SDLC.
+⦁	Product Owner (PO)
+Responsibilities:
+- Establish product priorities and vision in accordance with business requirements.
+- Perform as a link between the development team and stakeholders.
+- Approving software features.
+Commonly Tools Used:
+Microsoft Teams, Slack, Trello, and JIRA
+⦁	Project Manager (PM)
+Responsibilities:
+- Organise and manage the project during the SDLC.
+- Oversee project budget and schedule coordination across teams.
+Commomly Used Tools:
+Zoom, Microsoft Teams, Slack, Trello, JIRA, and Microsoft Project
+Google Documents
+⦁	UI/UX Designer
+Responsibilities:
+- Create interfaces that are easy to use.
+- Perform usability testing and user research to make sure the design is responsive and easy to use.
+Commonly used tools:
+XD, Figma, Sketch, InVision, Axure RP, and Google Analytics
+⦁	Business Analyst (BA)
+Responsibilities:
+- Gathering and recording stakeholder software requirements
+- Examine business requirements and convert them into functional requirements.
+- Work along with testers and developers.
+Commonly Used Tools:
+IBM DOORS, Confluence, JIRA, Google Docs, Microsoft Word, Lucidchart, and Microsoft Visio
+⦁	QA Engineer
+Responsibilities:
+- Develop security testing automation scripts, test cases, and test strategies.
+- Report bugs and confirm solutions.
+- Before deploying, make sure the software satisfies quality criteria.
+Common Tools Used:
+LoadRunner, Zephyr, JIRA, Appium, JUnit, TestNG, JMeter, and Selenium
+⦁	Databases Administrator (DBA)
+Responsibilities:
+-database design and maintenance.
+-Assure backup plans, security, and data integrity.
+-Boost the scalability and performance of databases
+Common Tool Used:
+MySQL, PostgreSQL, Oracle, Microsoft SQL Server, MongoDB pgAdmin, and SQL Server Management Studio (SSMS).
+⦁	Software Developer:
+Responsibilities:
+- Create, test, and maintain code
+-Create front-end, back-end, or full-stack apps and address bugs in software.
+-Operate with architects, designers, and testers.
+Common Tools Used:
+Visual Studio Code, IntelliJ IDEA, Eclipse, PyCharm Git, GitHub, GitLab, Bitbucket, React, Angular, Django, Spring Boot, Python, Java, JavaScript, C#, and C++
