@@ -1,0 +1,39 @@
+B.2. Advantages of Agile and Waterfall methods:
+Advantages of Agile:
+Faster
+Continues versions
+Adaptable with quick changes
+High quality
+Advantages of Waterfall:
+Well-defined
+Clear structure
+Works good with products with clear requirements
+Disadvantages of Agile:
+Difficult to estimate time and cost
+Doesn’t work well with well-defined requirements
+Disadvantages of Waterfall:
+Changes are difficult so it is not flexible
+It takes a long time
+When to use Agile:
+Customers provide ongoing feedback
+Innovative projects
+Changing requirements
+When to use Waterfall:
+Minimal customer involvement needed
+well-defined projects
+Clear requirements
+Best practice of Agile:
+Kanban/Scrum for workflow and to manage sprints
+Daily meetings
+Continues feedback
+Continues deployment and integration
+Best practice of Waterfall:
+Create a strict project schedule
+Define detailed requirements
+Ensure thorough testing at the end
+
+
+
+
+
+
