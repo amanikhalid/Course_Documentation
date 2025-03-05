@@ -1,0 +1,18 @@
+C.2.
+- .NET (ASP.NET Core) is a Microsoft-backed framework for web apps & enterprise solutions used for Enterprise apps, banking, large e-commerce.
+- Java (Spring Boot, Jakarta EE) is an Object-oriented, high-performance backend framework used for financial services, big data, Android apps.
+- Laravel is a PHP framework for backend development used for CMS, blogs, e-commerce.
+- Python (Django, Flask) is a beginner-friendly web framework used for AI-driven apps, data-heavy applications, analytics.
+- MERN (MongoDB, Express, React, Node.js) is a Full-stack JavaScript for web development used for SPAs, real-time applications, social media platforms.
+·      When to use:
+.Net: When developing enterprise-level, secure, and high-performance web applications.
+Java: When building large-scale, complex applications that require high concurrency, security, and scalability.
+Laravel: To develop fast and cost-effective websites.
+Python: When working on AI-driven, data analytics, or machine learning applications, or when security is a priority.
+MERN: When creating real-time applications, interactive UIs, or single-page applications.
+·      Features:
+.Net: Supports cloud-based and microservices architecture/ Excellent security and performance.
+Java: Strong multithreading & performance/ Highly scalable & enterprise ready.
+Laravel: Built-in authentication & security/ Easy to learn & use.
+Python: Strong AI & ML support/ Fast development & readability.
+MERN: Flexible and fast.
