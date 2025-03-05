@@ -1,0 +1,8 @@
+C. Web Development Stacks:
+C.1. Web Application Architecture is a framework defining the interactions between various components of a web application, essential for efficient web development and seamless user experience. Its a complex system composed of frontend, backend, database, and Application Programming Interfaces (APIs).
+ Frontend (Client-Side) is the part of the web application that users interact with. It handles the UI and user experience.
+
+Backend (Server-Side) The logic and data-processing layer that handles requests from the frontend and manages business logic
+Database Stores and retrieves structured or unstructured data used by the application.
+
+APIs A set of rules that allow different parts of a web app to communicate so it enhance scalability.
