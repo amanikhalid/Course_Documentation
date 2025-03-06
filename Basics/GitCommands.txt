@@ -1,0 +1,9 @@
+D.3. Git Commands:
+git init: to create a new repository
+git status: Shows the status of changes
+git add .: Add all files to staging area
+git add <file>: To add a specific file to staging area
+git commit -m "message": Saves changes with a commit message
+git log –oneline: view a condensed one-line commit history
+git pull origin main: Receive and apply the latest changes from the remote branch
+git push origin main: Pushes committed changes to the remote repo
