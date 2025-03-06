@@ -1,0 +1,18 @@
+D. Git version control:
+D.1. Git is a version control system that developers use all over the world. It helps to track different versions of code and collaborate with other developers.
+•       Why we use Git?
+-       Tracks Changes
+-       Collaboration
+-       Branching & Merging
+-       Backup & Recovery
+-       Fast
+•       When we use Git?
+-        When multiple developers work on the same project.
+-       When testing new features without affecting the main code.
+-       When tracking progress over time.
+-       To safeguard against accidental code loss.
+Git Hosting Services:
+-       GitHub
+-       GitLab
+-       BitBucket
+-       Azure
