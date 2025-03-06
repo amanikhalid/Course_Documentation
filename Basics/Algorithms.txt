@@ -1,0 +1,12 @@
+Types of Algorithms:
+1.     Sequential Algorithm:
+-       This Algorithm compares between values (x,y,z,..)
+-       Determine which value is the largest.
+
+2.     Iterative Algorithm:
+-       It goes through a group of values one by one.
+-       Compare the largest value with the others.
+-       If it found a largest value it updates the largest.
+-       It returns the largest value in the group.
+
+3.     Recursive Algorithm
