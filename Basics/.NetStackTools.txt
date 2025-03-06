@@ -1,0 +1,6 @@
+C.3. Tools of development used in .Net stack:
+- Visual Studio
+- ASP.NET Core
+- Git and GitHub
+- Docker
+- Blazor
