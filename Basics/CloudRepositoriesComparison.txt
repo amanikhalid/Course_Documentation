@@ -1,0 +1,9 @@
+D.2. Comparison between Cloud Repositories That Use Git Version Control:
+Pros:
+GitHub: Supports Markdown for issue tracking and user comments/ Has excellent documentation available/ Provides a set of powerful Git repository management tools/ has an active community of devs.
+GitLab: Open-source model encourages community contributions/ Helps enforce security and compliance best practices.
+BitBucket: Flexible hosting options for cloud or self-hosted environments/ Seamless integration with Jira and Trello for convenient project management.
+Cons:
+GitHub: Can be overwhelming for newcomers/ Repositories default setting is public/ Private repositories in a free plan limited to 3 users.
+GitLab: Not as large of a community as GitHub for open-source projects/ Limited free tier lacks some security scans.
+BitBucket: Limited free plan compared to other Git hosting services/ Less popular and active community.
