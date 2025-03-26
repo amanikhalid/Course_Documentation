@@ -1,0 +1,20 @@
+Algorithm Programming Components:
+Algorithm programming consists of:
+
+Input: Data provided to the algorithm.
+
+Processing: Operations performed on the input data.
+
+Output: Result produced after processing.
+
+Flow control: Loops and conditions to control the flow of execution.
+
+
+
+Example: To compute the sum of numbers from 1 to N:
+
+Input: N (user provides a number).
+
+Processing: Add numbers from 1 to N.
+
+Output: The sum.
