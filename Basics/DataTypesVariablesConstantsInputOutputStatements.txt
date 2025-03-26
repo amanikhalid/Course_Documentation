@@ -1,0 +1,50 @@
+ Data Types, Variables, Constants, and Input/Output Statements
+
+
+Data Types: Define the type of data a variable can hold 
+(e.g., int, float, string).
+
+Variables: Containers for storing data values.
+
+Constants: Immutable values that cannot be changed during execution.
+
+Input/Output: Statements that handle user input and display output 
+(e.g., Console.WriteLine() and Console.ReadLine() in C#).
+
+Integer (int): Stores whole numbers 
+(e.g., 11, -2, 900).
+
+Float/Double: Stores decimal numbers 
+(e.g., 11.5, -3.14).
+
+Boolean (bool): Stores true or false values.
+
+String: Stores sequences of characters 
+(e.g., "Hello, World!").
+
+Char: Stores a single character 
+(e.g., 'A').
+
+Variables: A variable is a storage location in memory for holding a value. Variables must be declared with a data type before use. 
+For Example: 
+int age = 25;
+float height = 6.11f;
+string name = "Farid";
+
+Constants: Constants are like variables, but their values cannot be changed once set. They are typically declared with the const keyword in C#.
+For Example:
+const double Pi = 3.14159;
+
+
+Input/Output Statements:
+
+Input: Console.ReadLine() is used to take input from the user.
+
+Output: Console.WriteLine() is used to display output to the console.
+For Example:
+Console.WriteLine("Enter your age:");
+int mark = int.Parse(Console.ReadLine());  // input
+
+Console.WriteLine($"Your mark is {mark}");  // output
+
+
