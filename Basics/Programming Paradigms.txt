@@ -1,0 +1,15 @@
+Programming Paradigms:
+Programming Paradigms are different approaches or styles of programming. Common paradigms include:
+
+Imperative Programming: Focuses on how to execute tasks.
+ Examples: C, Python.
+
+Declarative Programming: Focuses on what needs to be done. 
+Examples: SQL, HTML.
+
+Object-Oriented Programming (OOP): Focuses on objects and classes. 
+Examples: Java, C#.
+
+Functional Programming: Focuses on functions and immutability. 
+Examples: Haskell, Scala.
+
