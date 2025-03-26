@@ -1,0 +1,9 @@
+Types of Programming Languages (Based on Machine Interaction, Execution)
+
+Low-level languages:Assembly and Machine Language/ They are Closer to hardware and more efficient.
+
+High-level languages:Python, Java and C#/ They are easier to use beacuse they are abstracted from hardware.
+
+Compiled Languages:C and C++/ Translated into machine code before execution.
+
+Interpreted Languages:Python and JavaScript/ Translated at runtime.
