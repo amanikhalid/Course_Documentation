@@ -1,0 +1,33 @@
+Conditional Statements (if else / switch case)
+if-else: Used to execute a block of code based on a condition.
+
+For Example
+int age = 18;
+if (age >= 18)
+{
+    Console.WriteLine("You are an adult.");
+}
+else
+{
+    Console.WriteLine("You are a minor.");
+}
+
+switch-case: A more efficient way of handling multiple conditions based on the value of a variable.
+
+For Example
+int day = 3;
+switch (day)
+{
+    case 1:
+        Console.WriteLine("Monday");
+        break;
+    case 2:
+        Console.WriteLine("Tuesday");
+        break;
+    case 3:
+        Console.WriteLine("Wednesday");
+        break;
+    default:
+        Console.WriteLine("Invalid day");
+        break;
+}
