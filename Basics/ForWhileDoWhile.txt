@@ -1,0 +1,21 @@
+Looping (for, while, and do-while)
+for loop: Used when you know the number of iterations beforehand.
+
+For Example
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine(i);  // Outputs 0, 1, 2, 3, 4
+}
+
+
+
+do-while loop: Similar to a while loop, but guarantees that the block of code will execute at least once.
+
+For Example
+int i = 0;
+do
+{
+    Console.WriteLine(i);  // Outputs 0, 1, 2, 3, 4
+    i++;
+} while (i < 5);
+
