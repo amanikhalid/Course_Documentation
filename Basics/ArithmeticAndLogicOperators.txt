@@ -1,0 +1,29 @@
+Arithmetic and Logic Operators
+
+Arithmetic Operators: Used to perform mathematical operations on numbers:
++: Addition
+-: Subtraction
+*: Multiplication
+/: Division
+%: Modulus (remainder after division)
+
+For Example
+int x = 10;
+int y = 3;
+Console.WriteLine(x + y);  // 13 (Addition)
+Console.WriteLine(x - y);  // 7 (Subtraction)
+Console.WriteLine(x * y);  // 30 (Multiplication)
+Console.WriteLine(x / y);  // 3 (Integer Division)
+Console.WriteLine(x % y);  // 1 (Modulus)
+
+Logic Operators: Used to perform logical operations:
+&&: Logical AND (true if both operands are true)
+||: Logical OR (true if either operand is true)
+!: Logical NOT (inverts the boolean value)
+
+For Example:
+bool a = true;
+bool b = false;
+Console.WriteLine(a && b);  // false (AND)
+Console.WriteLine(a || b);  // true (OR)
+Console.WriteLine(!a);      // false (NOT)
