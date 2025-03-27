@@ -1,0 +1,45 @@
+Errors in Programming:
+Errors in programming refer to mistakes or bugs that prevent a program from working as expected.
+
+There are many types of errors which are:
+1. Syntax Errors: These occur when the code does not follow the correct syntax 
+e.g., missing semicolons, parentheses).
+
+
+For Example:
+
+
+    {
+        int number = 5;
+        Console.WriteLine("The number is: " number); // Syntax error: Missing + for concatenation
+    }
+
+
+
+
+2. Runtime Errors: These occur while the program is running
+ (e.g., division by zero, accessing null objects).
+
+For Example:
+
+    {
+        int x = 22;
+        int y = 0;
+
+        Console.WriteLine(x / y); // Runtime error: Division by zero
+    }
+
+
+
+Logical Errors: These occur when the program runs without crashing, but the results are incorrect because of a flawed logic or algorithm.
+
+For Example:
+
+    {
+        int num1 = 5;
+        int num2 = 2;
+        
+        int result = num1 - num2; // Logical error: should have been num1 + num2
+        Console.WriteLine("The result is: " + result); // The result will be incorrect.
+    }
+
