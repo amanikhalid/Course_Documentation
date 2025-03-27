@@ -1,0 +1,19 @@
+Functions in C#:
+Functions/methods in C# are blocks of code designed to perform specific tasks. They can be built-in (provided by C# or the .NET framework) or user-defined.
+
+For Example:
+    {
+        // Math.Pow - Raise a number to a power
+        double result = Math.Pow(9, 2);
+        Console.WriteLine("9 raised to the power of 2 is: " + result);
+
+        // String.Concat - Concatenate strings
+        string greeting = String.Concat("Hello", " ", "World");
+        Console.WriteLine(greeting);
+
+        // Console.ReadLine - Read user input
+        Console.WriteLine("Enter your name: ");
+        string name = Console.ReadLine();
+        Console.WriteLine("Hello, " + name);
+    }
+}
