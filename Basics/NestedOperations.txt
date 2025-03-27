@@ -1,0 +1,45 @@
+Nested Operations:
+Nested operations refer to placing one operation (such as a condition or a loop) inside another operation
+
+Nested Conditions:
+A nested condition occurs when a condition (if-else, switch, etc.) is placed inside another condition. It allows for more complex decision-making processes
+
+For Example:
+using System;
+
+    {
+        int age = 20;
+        bool hasPermission = true;
+
+        if (age >= 18)
+        {
+            if (hasPermission)
+            {
+                Console.WriteLine("You are allowed to enter.");
+            }
+            else
+            {
+                Console.WriteLine("You need permission to enter.");
+            }
+        }
+        else
+        {
+            Console.WriteLine("You are not old enough to enter.");
+        }
+    }
+
+Nested Looping
+A nested loop refers to having a loop inside another loop. 
+
+For Example:
+
+    
+        for (int i = 1; i <= 3; i++)
+        {
+            for (int j = 1; j <= 3; j++)
+            {
+                Console.WriteLine("i = " + i + ", j = " + j);
+            }
+        }
+    
+
